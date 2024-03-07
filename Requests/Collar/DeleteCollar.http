@@ -1,0 +1,3 @@
+@id = fff4402c-f263-4edb-a1e0-7afc6d1b6989
+
+DELETE http://localhost:5002/Collar/{{id}}

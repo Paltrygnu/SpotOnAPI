@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DcaCBc1GLsNJVTgsMNuSYHqrODG/R6XUBqf7VPkV55LP8InwBvxw3i58YDpjSoU1ZAKTIEo9MyxOSP+0KL9W0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Canae\\SpotOn\\SpotOn\\SpotOn.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Canae\\.nuget\\packages\\erroror\\1.10.0\\erroror.1.10.0.nupkg.sha512"
+  ],
+  "logs": []
+}

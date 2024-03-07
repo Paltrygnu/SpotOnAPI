@@ -1,0 +1,11 @@
+C:\Users\Canae\SpotOn\SpotOn.Contracts\bin\Debug\net7.0\SpotOn.Contracts.deps.json
+C:\Users\Canae\SpotOn\SpotOn.Contracts\bin\Debug\net7.0\SpotOn.Contracts.dll
+C:\Users\Canae\SpotOn\SpotOn.Contracts\bin\Debug\net7.0\SpotOn.Contracts.pdb
+C:\Users\Canae\SpotOn\SpotOn.Contracts\obj\Debug\net7.0\SpotOn.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Canae\SpotOn\SpotOn.Contracts\obj\Debug\net7.0\SpotOn.Contracts.AssemblyInfoInputs.cache
+C:\Users\Canae\SpotOn\SpotOn.Contracts\obj\Debug\net7.0\SpotOn.Contracts.AssemblyInfo.cs
+C:\Users\Canae\SpotOn\SpotOn.Contracts\obj\Debug\net7.0\SpotOn.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Canae\SpotOn\SpotOn.Contracts\obj\Debug\net7.0\SpotOn.Contracts.dll
+C:\Users\Canae\SpotOn\SpotOn.Contracts\obj\Debug\net7.0\refint\SpotOn.Contracts.dll
+C:\Users\Canae\SpotOn\SpotOn.Contracts\obj\Debug\net7.0\SpotOn.Contracts.pdb
+C:\Users\Canae\SpotOn\SpotOn.Contracts\obj\Debug\net7.0\ref\SpotOn.Contracts.dll

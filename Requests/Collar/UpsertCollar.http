@@ -1,0 +1,9 @@
+@id = 7efbd6c9-4c50-4d67-bcb4-64351bde9110
+
+PUT http://localhost:5002/Collar/{{id}}
+Content-Type: application/json
+
+{
+    "Longitude": 150,
+    "Latitude": 60
+}

@@ -1,0 +1,11 @@
+POST http://localhost:5002/Collar
+Content-Type: application/json
+
+{
+    "Longitude": 160,
+    "Latitude": 80
+}
+
+###
+
+GET http://localhost:5002/Collar/00000000-0000-0000-0000-000000000000
