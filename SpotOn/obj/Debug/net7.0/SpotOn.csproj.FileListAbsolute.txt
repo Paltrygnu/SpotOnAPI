@@ -28,3 +28,9 @@ C:\Users\Canae\SpotOn\SpotOn\obj\Debug\net7.0\SpotOn.pdb
 C:\Users\Canae\SpotOn\SpotOn\obj\Debug\net7.0\SpotOn.genruntimeconfig.cache
 C:\Users\Canae\SpotOn\SpotOn\obj\Debug\net7.0\ref\SpotOn.dll
 C:\Users\Canae\SpotOn\SpotOn\bin\Debug\net7.0\ErrorOr.dll
+C:\Users\Canae\SpotOn\SpotOn\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\Canae\SpotOn\SpotOn\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Canae\SpotOn\SpotOn\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\Canae\SpotOn\SpotOn\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\Canae\SpotOn\SpotOn\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Canae\SpotOn\SpotOn\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

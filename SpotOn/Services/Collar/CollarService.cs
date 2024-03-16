@@ -1,5 +1,4 @@
 using ErrorOr;
-
 public class CollarService : ICollarService
 {
 
